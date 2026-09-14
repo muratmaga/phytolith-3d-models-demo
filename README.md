@@ -15,8 +15,8 @@ Demonstration set for the Strömberg lab (UW Biology / Burke Museum paleobotany)
 |---|---|---|---|---|---|
 | <img src="models/aira_caryophylla_pmr642_3_29_2019_009_aligned.png" width="120"> | [Aira caryophylla phytolith (pmr642)](models/aira_caryophylla_pmr642_3_29_2019_009_aligned.ply) | pmr642, scan 3/29/2019 #009 | 20,000 | PLY | confocal microscopy, segmented |
 
-### Species not given (1)
+### Anomochloa marantoidea (1)
 
 | | Model | Specimen | Triangles | Format | Source |
 |---|---|---|---|---|---|
-| <img src="models/anomochloa_marantoidea_pmr401_04_28_2026_010_aligned.png" width="120"> | [anomochloa_marantoidea_pmr401_04_28_2026_010_aligned](models/anomochloa_marantoidea_pmr401_04_28_2026_010_aligned.ply) |  | 20,000 | PLY |  |
+| <img src="models/anomochloa_marantoidea_pmr401_04_28_2026_010_aligned.png" width="120"> | [Anomochloa marantoidea phytolith (pmr401)](models/anomochloa_marantoidea_pmr401_04_28_2026_010_aligned.ply) | pmr401, scan 4/28/2026 #010 | 20,000 | PLY | confocal microscopy, segmented |
