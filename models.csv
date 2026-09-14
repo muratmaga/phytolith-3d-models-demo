@@ -1,3 +1,3 @@
 file,title,species,specimen,source,derived_from,notes,format,triangles,size_bytes
-aira_caryophylla_pmr642_3_29_2019_009_aligned.ply,aira_caryophylla_pmr642_3_29_2019_009_aligned,,,,,,PLY,20000,646066
+aira_caryophylla_pmr642_3_29_2019_009_aligned.ply,Aira caryophylla phytolith (pmr642),Aira caryophylla,"pmr642, scan 3/29/2019 #009","confocal microscopy, segmented",,aligned; 20 000 faces; coordinates in micrometres; ASCII PLY,PLY,20000,646066
 anomochloa_marantoidea_pmr401_04_28_2026_010_aligned.ply,anomochloa_marantoidea_pmr401_04_28_2026_010_aligned,,,,,,PLY,20000,380226
