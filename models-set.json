@@ -1,0 +1,8 @@
+{
+  "title": "Phytolith 3D models (demo)",
+  "description": "Demonstration set for the Str\u00f6mberg lab (UW Biology / Burke Museum paleobotany). Grass phytoliths (silica bodies about 20 micrometres long) imaged by confocal microscopy after fluorescent staining, segmented by hand in Fiji, meshed and decimated to 20 000 faces in MeshLab, and aligned for 3D geometric morphometrics (landmarks and surface semilandmarks placed in Checkpoint). Two example models provided by Caroline Str\u00f6mberg. Coordinates are in micrometres. Demo only; not for citation.",
+  "license": "CC BY 4.0",
+  "curator": "muratmaga",
+  "created": "2026-09-14T23:14:46Z",
+  "tool": "models.morphodepot.org"
+}
