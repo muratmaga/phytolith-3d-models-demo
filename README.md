@@ -5,7 +5,13 @@ Demonstration set for the Strömberg lab (UW Biology / Burke Museum paleobotany)
 - License: CC BY 4.0 (see `LICENSE.txt`)
 - Curated by [@muratmaga](https://github.com/muratmaga)
 - Created with [models.morphodepot.org](https://models.morphodepot.org), part of [MorphoDepot](https://morphodepot.org)
+- **Download all models:** [v1 (zip)](https://github.com/muratmaga/phytolith-3d-models-demo/archive/refs/tags/v1.zip)
 
-## Models (0)
+## Models (2)
 
-No models yet.
+### Species not given (2)
+
+| | Model | Specimen | Triangles | Format | Source |
+|---|---|---|---|---|---|
+| <img src="models/aira_caryophylla_pmr642_3_29_2019_009_aligned.png" width="120"> | [aira_caryophylla_pmr642_3_29_2019_009_aligned](models/aira_caryophylla_pmr642_3_29_2019_009_aligned.ply) |  | 20,000 | PLY |  |
+| <img src="models/anomochloa_marantoidea_pmr401_04_28_2026_010_aligned.png" width="120"> | [anomochloa_marantoidea_pmr401_04_28_2026_010_aligned](models/anomochloa_marantoidea_pmr401_04_28_2026_010_aligned.ply) |  | 20,000 | PLY |  |
